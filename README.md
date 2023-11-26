@@ -1,6 +1,4 @@
-# Hello world!!
-
-<img align="right" src="images/coding.gif" height="240" style="margin-left:20px">
+# Hello World!!
 
 ```c
 t_person alisson;
@@ -9,9 +7,9 @@ alisson = (t_person)
 {
 	.name = "Alisson Marcos",
 	.age = "20",
-	.city = "São Bernardo do Campo, SP",
+	.city = "São Bernardo do Campo, São Paulo, Brazil",
 	.languages = "Portuguese, English",
-	.soft_skils = "Cooperation, Organization, Fast and continuous learning, Comunication",
+	.soft_skils = "Cooperation, Organization, Self and fast learning, Comunication",
 	.occupation = "Software Engineering student at 42 São Paulo School"
 };
 ```
@@ -19,6 +17,10 @@ alisson = (t_person)
 ## I know the following technologies
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px" style="margin-right:10px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px" style="margin-right:10px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="50px" style="margin-right:10px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50px" style="margin-right:10px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50px" style="margin-right:10px"/>
+
+## More about me
+
+I love the ideas of self-learning, continuos find of knowledge, cooperation and contribution with others and I apply this in my studies of programmig. Luckly existis an amazing university that have these same values where could I join and practice these ideas, the 42. I have develop several projects in 42 where I learned fundamentals of computer programming. Created my own standard library, recode the famous `printf()` function, code a program that render 3D maps, and a lot more. All these projects using C language.
 
 ## 42 School projects
 
