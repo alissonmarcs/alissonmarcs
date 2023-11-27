@@ -10,7 +10,7 @@ alisson = (t_person)
 	.city = "São Bernardo do Campo, São Paulo, Brazil",
 	.languages = "Portuguese, English",
 	.soft_skils = "Cooperation, Organization, Self and fast learning, Comunication",
-	.occupation = "Software Engineering student at 42 São Paulo School"
+	.occupation = "Software Engineering student at 42 São Paulo"
 };
 ```
 
@@ -20,7 +20,7 @@ alisson = (t_person)
 
 ## More about me
 
-I love the ideas of self-learning, continuos find of knowledge, cooperation and contribution with others and I apply this in my studies of programmig. Luckly existis an amazing university that have these same values where could I join and practice these ideas, the 42. I have develop several projects in 42 where I learned fundamentals of computer programming. Created my own standard library, recode the famous `printf()` function, code a program that render 3D maps, and a lot more. All these projects using C language.
+I like the ideas of self-learning, continuos find of knowledge, cooperation and contribution with others. Luckly existis an amazing university that have these same values where could I join and practice these ideas, the 42. I have develop several projects in 42 where I learned fundamentals of computer programming. Created my own standard library, recode the famous `printf()` function, code a program that render 3D maps, and a lot more. All these projects use C language.
 
 ## 42 School projects
 
