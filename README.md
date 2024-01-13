@@ -37,6 +37,9 @@ I like the ideas of self-learning, continuos find of knowledge, cooperation and 
 	<a href="https://github.com/alissonmarcs/fdf">
 		<img src="images/fdfm.png" height="120px">
 	</a>
+	<a href="https://github.com/alissonmarcs/pipex">
+		<img src="https://raw.githubusercontent.com/alissonmarcs/42-project-badges/main/badges/pipexm.png" height="120px">
+	</a>
 </div>
 
 
