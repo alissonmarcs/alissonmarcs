@@ -20,7 +20,7 @@ alisson = (t_person)
 
 ## More about me
 
-I like the ideas of self-learning, continuos find of knowledge, cooperation and contribution with others. Luckly existis an amazing university that have these same values where could I join and practice these ideas, the 42. I have develop several projects in 42 where I learned fundamentals of computer programming. Created my own standard library, recode the famous `printf()` function, code a program that render 3D maps, and a lot more. All these projects use C language.
+I like the ideas of self-learning, continuos find of knowledge, cooperation and contribution with others. Luckly existis an amazing university that have these same values where could I join and practice these ideas, the 42. I have develop several software projects in 42 where I learned fundamentals of computer programming. Some of them are: created my own standard library, recode the famous `printf()` function, code a program that render 3D maps, and a lot more. All these projects use C language.
 
 ## 42 School projects
 
