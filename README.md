@@ -6,7 +6,7 @@ t_person alisson;
 alisson = (t_person)
 {
 	.name = "Alisson Marcos",
-	.age = "20",
+	.age = "21",
 	.city = "São Bernardo do Campo, São Paulo, Brazil",
 	.languages = "Portuguese, English",
 	.soft_skils = "Cooperation, Organization, Self and fast learning, Comunication",
