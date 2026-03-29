@@ -1,4 +1,4 @@
-# Hello World!!
+# Hello World !
 
 ```c
 t_person alisson;
@@ -6,23 +6,36 @@ t_person alisson;
 alisson = (t_person)
 {
 	.name = "Alisson Marcos",
-	.age = "21",
-	.city = "São Bernardo do Campo, São Paulo, Brazil",
+	.age = "22",
+	.city = "São Paulo, São Paulo, Brazil",
 	.languages = "Portuguese, English",
 	.soft_skils = "Cooperation, Organization, Self and fast learning, Comunication",
-	.occupation = "Software Engineering student at 42 São Paulo"
+	.occupation = "Software Engineering and Lifelong Learner"
 };
 ```
 
-## I know the following technologies
+## Skills
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px" style="margin-right:10px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px" style="margin-right:10px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" height="50px" style="margin-right:10px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50px" style="margin-right:10px"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50px" style="margin-right:10px"/>
+<div align="center">
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="50px" style="margin-right:10px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50px" style="margin-right:10px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="50px" style="margin-right:10px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50px" style="margin-right:10px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" height="50px" style="margin-right:10px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg"  height="50px" style="margin-right:10px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" height="50px" style="margin-right:10px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" height="50px" style="margin-right:10px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/fastapi/fastapi-original.svg" height="50px" style="margin-right:10px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" height="50px" style="margin-right:10px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="50px" style="margin-right:10px"/>
+	<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="50px" style="margin-right:10px"/>
+</div>
 
-## More about me
+## About
 
 I like the ideas of self-learning, continuos find of knowledge, cooperation and contribution with others. Luckly existis an amazing university that have these same values where could I join and practice these ideas, the 42. I have develop several software projects in 42 where I learned fundamentals of computer programming. Some of them are: created my own standard library, recode the famous `printf()` function, code a program that render 3D maps, and a lot more. All these projects use C language.
 
-## 42 School projects
+## 42 projects
 
 <div align="center">
 	<a href="https://github.com/alissonmarcs/Libft">
@@ -53,8 +66,3 @@ I like the ideas of self-learning, continuos find of knowledge, cooperation and 
 		<img src="images/cppe.png" height="120px">
 	</a>
 </div>
-
-
-
-
-
